@@ -18,9 +18,9 @@ CONFIG = {
 
 # Neo4j Aura Configuration
 # Replace these with your actual Aura instance details
-NEO4J_URI = "neo4j+s://your-instance-id.databases.neo4j.io"  # Your Aura URI
+NEO4J_URI = "bolt://localhost:7687"  # Your Aura URI
 NEO4J_USER = "neo4j"  # Usually 'neo4j'
-NEO4J_PASSWORD = "your-aura-password"  # Your Aura instance password
+NEO4J_PASSWORD = "Kathir@007"  # Your Aura instance password
 
 # Alternative: Use environment variables for security
 # import os
